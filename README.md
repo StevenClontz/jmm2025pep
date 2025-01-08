@@ -7,4 +7,6 @@ Hi mom. Sup dad.
 
 Making another change.
 
+Make a "local" commit but not sync it (yet).
+
 ![logo](learning.svg)
